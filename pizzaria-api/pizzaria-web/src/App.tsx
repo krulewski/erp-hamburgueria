@@ -11,7 +11,7 @@ type CartItem = {
   observation?: string
 }
 
-const API_URL = 'http://localhost:3000'
+const API_URL = 'https://erp-hamburgueria.onrender.com'
 
 function App() {
 
