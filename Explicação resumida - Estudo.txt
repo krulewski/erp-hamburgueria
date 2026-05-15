@@ -1,0 +1,32 @@
+💬 EXPLICAÇÃO MAIS COMPLETA (NÍVEL ENTREVISTA)
+
+No backend, utilizei Node.js com Express para criar uma API REST, estruturando o projeto com rotas, controllers e models.
+Implementei operações CRUD e utilizei o Mongoose para modelagem e integração com o MongoDB Atlas.
+
+No frontend, utilizei React com TypeScript, consumindo a API com Axios e gerenciando estado com useState e useEffect.
+
+Para estilização, usei Tailwind CSS, criando uma interface responsiva e organizada.
+
+Também realizei o deploy da aplicação, utilizando Vercel para o frontend e Render para o backend, lidando com questões como CORS e variáveis de ambiente.
+
+🔙 Backend
+API REST (GET, POST, PUT, DELETE)
+Estrutura MVC (routes, controllers, models)
+Express
+Mongoose (modelagem de dados)
+MongoDB Atlas (cloud)
+CORS (comunicação front/back)
+Variáveis de ambiente (.env)
+💻 Frontend
+React
+Hooks (useState, useEffect)
+Consumo de API (Axios)
+Estado e re-renderização
+Tailwind CSS (estilização moderna)
+🌐 Deploy
+Vercel (frontend)
+Render (backend)
+Problemas reais:
+CORS
+Cold start
+URL de produção
